@@ -38,6 +38,9 @@ gem 'better_errors'
 # form gem!
 gem 'simple_form'
 
+# seed gems
+gem 'faker'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
